@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## hi my name is derek
 
 You can use the [editor on GitHub](https://github.com/cooldog123/q-1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
